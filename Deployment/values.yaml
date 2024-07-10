@@ -1,0 +1,7 @@
+service-chart:
+  datadog:
+    name: "custom"
+    operator: "2"
+    region: "virginia"
+    customTags:
+      project: "wa"
